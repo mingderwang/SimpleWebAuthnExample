@@ -5,3 +5,5 @@ A fully-functional reference implementation of **@simplewebauthn/server** and
 
 You can find an in-depth guide to the Example Project here:
 https://simplewebauthn.dev/docs/advanced/example-project
+
+# use mingderwang/my-simplewebauth-example instead
